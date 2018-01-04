@@ -8,16 +8,15 @@
 ## Container Overview (Docker and Rkt)
 * What is a Container?
 * Why do we need Containers?
-* Who's behind Kubernetes?
+* Docker vs. Rkt?
 
 ## Container Orchestrastion Overview (Kubernetes and Docker Swarm)
-* What is a Container?
-* Why do we need Containers?
-* Who's behind Kubernetes?
+* What is a Container Orchestrastion?
+* Why do we need Containers Orchestration?
+* Kubernetes vs. Docker Swarm?
 
 ## Kubernetes Overview
-* What is Kubernetes (K8s)?
-* Why do we need Kubernetes?
+* Kubernetes Origin
 * Who's behind Kubernetes?
 
 ## Kubernetes Core Concepts
