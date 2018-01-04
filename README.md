@@ -1,4 +1,4 @@
-# K8s-workshop
+# Kubernetes and Docker Workshop
 
 ## Introduction
 * What is this workshop about?
@@ -16,7 +16,7 @@
 * Who's behind Kubernetes?
 
 ## Kubernetes Overview
-* What is Kubernetes?
+* What is Kubernetes (K8s)?
 * Why do we need Kubernetes?
 * Who's behind Kubernetes?
 
