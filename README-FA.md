@@ -7,19 +7,19 @@
 
 ## مقدمه‌ای بر کانتینرها (Docker and Rkt)
 * کانتینر چیست؟
-* چرا به کانتینرها نیاز داریم؟
+* چرا به کانتینرها نیاز هست؟
 * Docker vs. Rkt?
 
 ## Container Orchestrastion Overview (Kubernetes and Docker Swarm)
-* What is a Container Orchestrastion?
-* Why do we need Containers Orchestration?
+* تنظیم و ارکستراسیون کانتینرها به چه معناست؟
+* چرا به تنظیم و ارکستراسیون کانتینرها نیاز هست؟
 * Kubernetes vs. Docker Swarm?
 
-## Kubernetes Overview
-* Kubernetes Origin
-* Who's behind Kubernetes?
+## مقدمه‌ای بر کوبرنیتز
+* تاریخچه و ریشه کوبرنیتز
+* چه کسانی کوبرنیتز را توسعه می‌دهند
 
-## Kubernetes Core Concepts
+## مفاهیم پایه‌ای کوبرنیتز
 * Kubelet
 * kube-proxy
 * Service
@@ -29,30 +29,30 @@
 * Ingress
 * Kubectl
 
-## Demo
-* Install and setup Docker
-* Build and run an application with docker
-* Install and setup a Kubernetes cluster
-* Deploy an application to the Kubernetes
-* Show the features os Kubernetes in action
-  * Scaling (Horizontal and Vertical)
-  * Rolling update
-  * Failover and rollback
+## قسمت عملی
+* نصب و راه‌اندازی داکر
+* ساخت و اجرای یک برنامه با داکر
+* نصب و راه‌اندازی یک کلاستر کوبرنیتز
+* نصب یک برنامه روی کوبرنیتز
+* نمایش قابلیت‌های کوبرنیتز
+  * مقیاس‌پذیری
+  * به روز رسانی چرخشی
+  * Failover and عقب‌گشت
   
-## Q&A
+## پرسش و پاسخ
 
-## Extra (This that we will talk about if we finish sooner than expected)
-* Docker Monitoring
-* Kubernetes Monitoring
-* Docker Security
-* Kubernetes Security
-* Load Balancing
-* High Availibility
-* Federation
+## موارد بیشتر (مواردی که در صورت زودتر از موعد تمام شدن سرفصل‌های بالا به آن‌ها می‌پردازیم)
+* مانیتورینگ داکرها
+* مانیتورینگ کوبرنیتز
+* امنیت داکر
+* امنیت کوبرنیتز
+* تعادل بار
+* در دسترس بودن بالا
+* فدراسیون
 * Apache Mesos
 * Docker compose
 * Docker swarm
-* Benchmarking and stress test
+* معیارسنجی و تست بار
 * Helm
 * Rancher
 * CoreOS
